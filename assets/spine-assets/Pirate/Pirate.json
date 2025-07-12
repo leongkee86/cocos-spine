@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "CQHNVirJDDXdiZIZqTkZ3bh01Z0", "spine": "3.6.52", "width": 717.27, "height": 707.74, "images": "" },
+"skeleton": { "hash": "CQHNVirJDDXdiZIZqTkZ3bh01Z0", "spine": "3.8.99", "width": 717.27, "height": 707.74, "images": "" },
 "bones": [
 	{ "name": "Pirate", "x": -0.37, "y": 0.96 },
 	{ "name": "body", "parent": "Pirate", "length": 162.2, "rotation": 92.07, "x": 33.83, "y": 204.67 },

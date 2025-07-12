@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "bjWcF6WAHle1+dKEqRN0j55uwRo", "spine": "3.6.52", "width": 653.36, "height": 651.42, "images": "" },
+"skeleton": { "hash": "bjWcF6WAHle1+dKEqRN0j55uwRo", "spine": "3.8.99", "width": 653.36, "height": 651.42, "images": "" },
 "bones": [
 	{ "name": "Shark", "x": 1.16, "y": -0.59 },
 	{ "name": "body", "parent": "Shark", "length": 256.83, "rotation": 97.58, "x": -0.81, "y": 230.22 },

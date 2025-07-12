@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "AJwd2f38KJxCtp2Dqra4egI0JqY", "spine": "3.6.52", "width": 168.34, "height": 137.56, "images": "" },
+"skeleton": { "hash": "AJwd2f38KJxCtp2Dqra4egI0JqY", "spine": "3.8.99", "width": 168.34, "height": 137.56, "images": "" },
 "bones": [
 	{ "name": "Crab" },
 	{ "name": "Body", "parent": "Crab", "x": -7.37, "y": 44.56 },

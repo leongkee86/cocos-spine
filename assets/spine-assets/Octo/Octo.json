@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "riHVeaVWWFwQpEsbc977lE1auWs", "spine": "3.6.52", "width": 622, "height": 328.69, "images": "" },
+"skeleton": { "hash": "riHVeaVWWFwQpEsbc977lE1auWs", "spine": "3.8.99", "width": 622, "height": 328.69, "images": "" },
 "bones": [
 	{ "name": "Octo" },
 	{ "name": "bone", "parent": "Octo", "length": 102.96, "rotation": 65.92, "x": 160, "y": -18 },
